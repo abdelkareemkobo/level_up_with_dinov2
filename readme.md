@@ -1,7 +1,8 @@
 # DinoV2 Exploration
 
 This repository is dedicated to exploring the capabilities of DinoV2, a state-of-the-art image recognition model. The project includes an implementation of instance retrieval using Faiss.
-
+## Kaggle Notebooks 
+[instance retrival](https://www.kaggle.com/code/abdelkareem/dinov2-instance-retrieval)
 ## Technologies
 
 - DinoV2 (version X.X.X)
